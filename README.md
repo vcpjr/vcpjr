@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vcpjr/vcpjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Vilmar César Pereira Júnior
-
 Este repositório contém os projetos que desenvolvi nas disciplinas do cursos de Análise e Desenvolvimento de Sistemas do Senac/SC
 
 <div align="center">
@@ -27,9 +23,9 @@ Este repositório contém os projetos que desenvolvi nas disciplinas do cursos d
   
 *Contato*
 <div>
-<a href="www.linkedin.com/in/vcpjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--<a href="www.linkedin.com/in/vcpjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
   
 <a href = "mailto:vilmarcesarpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/vcpjr/vcpjr/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/vcpjr/vcpjr/blob/output/github-contribution-grid-snake.svg)-->
 </div>
