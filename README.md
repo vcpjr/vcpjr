@@ -21,7 +21,7 @@ Este repositório contém os projetos que desenvolvi nas disciplinas do cursos d
 
 <div align="center">
   <a href="https://https://github.com/tatianebabel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vcpjrw_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vcpjr&w_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianebabel&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   ##
