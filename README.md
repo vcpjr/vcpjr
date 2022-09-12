@@ -24,18 +24,6 @@ Este repositório contém os projetos que desenvolvi nas disciplinas do cursos d
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vcpjrw_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianebabel&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-
-<--
- ##### *What I know - Languages?*
-<div style="display: inline_block">
-  <img align="center" alt="Tati-Java" height="40" width="90"img src="https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=java&logoColor=black">
-  <img align="center" alt="Tati-Js" height="40" width="90" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Tati-HTML" height="40" width="90" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Tati-CSS" height="40" width="90" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="right" alt="tati-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_EOxfE014.png">
- 
-</div>
- -->
   ##
   ##### *Contato*
 <div>
