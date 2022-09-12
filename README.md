@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 Este repositório contém os projetos que desenvolvi nas disciplinas do cursos de Análise e Desenvolvimento de Sistemas do Senac/SC
 
-<div align="center">
+<div align="left">
   <a href="https://https://github.com/vcpjr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vcpjr&w_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcpjr&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
-*Contato*
+<!--*Contato*-->
 <div>
 <!--<a href="www.linkedin.com/in/vcpjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
   
